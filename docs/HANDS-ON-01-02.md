@@ -1,4 +1,4 @@
-# 🎬 Vídeo 1.2 - Anatomia de um Pipeline de ML
+# 🎬 Vídeo 1.2 - Arquitetura de um Pipeline de ML
 
 **Aula**: 1 - Introdução ao Pipeline de ML  
 **Vídeo**: 1.2  
@@ -29,7 +29,7 @@
 
 ---
 
-## 📚 Parte 1: Anatomia do Pipeline
+## 📚 Parte 1: Arquitetura do Pipeline
 
 ### Passo 1: As 5 Etapas Padrão
 

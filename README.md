@@ -11,7 +11,7 @@ Montar a base de um projeto MLOps: ambiente isolado, pipeline modular de ML (ing
 | Vídeo | Tema | O que você vai fazer |
 |-------|------|---------------------|
 | 01 | Setup do Ambiente MLOps | Criar venv, instalar dependências e treinar primeiro modelo |
-| 02 | Anatomia de um Pipeline de ML | Refatorar para pipeline modular com logging |
+| 02 | Arquitetura de um Pipeline de ML | Refatorar para pipeline modular com logging |
 | 03 | Testes e Reprodutibilidade | Adicionar pytest, cobertura e fixar random seeds |
 
 ## 🏗️ Arquitetura do Pipeline
@@ -80,7 +80,7 @@ Detalhes em [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
 | Vídeo | Hands-on |
 |-------|----------|
 | 01 - Setup do Ambiente MLOps | [HANDS-ON-01-01.md](docs/HANDS-ON-01-01.md) |
-| 02 - Anatomia de um Pipeline de ML | [HANDS-ON-01-02.md](docs/HANDS-ON-01-02.md) |
+| 02 - Arquitetura de um Pipeline de ML | [HANDS-ON-01-02.md](docs/HANDS-ON-01-02.md) |
 | 03 - Testes e Reprodutibilidade | [HANDS-ON-01-03.md](docs/HANDS-ON-01-03.md) |
 
 **Referência rápida**: [Cheatsheet](docs/CHEATSHEET.md)

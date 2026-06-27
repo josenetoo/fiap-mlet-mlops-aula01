@@ -295,52 +295,6 @@ Get-Item models\iris_model.pkl | Select-Object Name, Length
 
 ---
 
-## 📦 Parte 4: Versionar o Projeto
-
-### Passo 10: Inicializar Git
-
-**Criar `.gitignore`:**
-
-```gitignore
-# Python
-__pycache__/
-*.py[cod]
-venv/
-
-# Modelos e dados (grandes!)
-models/*.pkl
-data/*.csv
-
-# IDE
-.vscode/
-.idea/
-.DS_Store
-```
-
-**Linux/Mac:**
-```bash
-git init
-git add .gitignore requirements.txt src/
-git commit -m "feat: setup inicial do projeto MLOps"
-```
-
-**Windows (PowerShell):**
-```powershell
-git init
-git add .gitignore requirements.txt src/
-git commit -m "feat: setup inicial do projeto MLOps"
-```
-
-**Resultado esperado:**
-```
-[main (root-commit) abc1234] feat: setup inicial do projeto MLOps
- 5 files changed, 50 insertions(+)
-```
-
-✅ Projeto versionado.
-
----
-
 ## 🔧 Troubleshooting
 
 | Erro | Causa | Solução |
